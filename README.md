@@ -1,2 +1,2 @@
 # music
-loja de musica simples desenvolvida com o framework Laravel
+Loja de música simples desenvolvida com o framework Laravel.
