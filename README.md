@@ -15,4 +15,9 @@ Loja de música simples desenvolvida com o framework Laravel e usada para fins d
 
 A seeder MusicaSeeder::class não pode ser executada antes da seeder AlbumSeeder::class
 
+# Obrigatório
+
+- Configurar o .env FILESYSTEM_DISK=public
+
+- Criar um link simbólico com o comando php artisan storage:link
 
