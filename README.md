@@ -13,6 +13,6 @@ Loja de música simples desenvolvida com o framework Laravel e usada para fins d
 
 # Importante
 
-A seeder MusicaSeeder::class não pode ser executada antes da seeder albuns
+A seeder MusicaSeeder::class não pode ser executada antes da seeder AlbumSeeder::class
 
 
