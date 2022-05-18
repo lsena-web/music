@@ -186,7 +186,6 @@
                             'genero' => request()->get('genero', ''),
                         ])->links() }}
                 </div>
-
             </div>
         </section><!-- End Portfolio Section -->
 
@@ -195,7 +194,7 @@
             <div class="container">
 
                 <div class="section-title">
-                    <h2>Testimonials</h2>
+                    <h2>Testemunhais</h2>
                     <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
                         consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
                         fugiat sit
@@ -214,7 +213,7 @@
                                     quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
-                                <img src=/site/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                                <img src="/site/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                                 <h3>Saul Goodman</h3>
                                 <h4>Ceo &amp; Founder</h4>
                             </div>
