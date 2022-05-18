@@ -1,13 +1,18 @@
-# music
-Loja de música simples desenvolvida com o framework Laravel.
-
-Para acessar a área administrativa será preciso rodar a seeder: UserSeeder::class
-
-Caso queira gerar varios ábuns pode rodar a seeder: AlbumSeeder::class
-
-Caso queira gerar musicas para albuns aleatórios pode rodar a seeder MusicaSeeder::class
+# YourMusic
+Loja de música simples desenvolvida com o framework Laravel e usada para fins didáticos.
 
 
-#OBS: a seeder MusicaSeeder::class não pode ser executada antes da seeder albuns
+## Observações
+
+- Para acessar a área administrativa será preciso rodar a seeder: UserSeeder::class
+
+- Caso queira gerar varios ábuns pode rodar a seeder: AlbumSeeder::class
+
+- Caso queira gerar músicas para albuns aleatórios pode rodar a seeder MusicaSeeder::class
+
+
+# Importante
+
+A seeder MusicaSeeder::class não pode ser executada antes da seeder albuns
 
 
