@@ -118,13 +118,6 @@
                 </a>
             </li>
 
-            <li class="nav-item">
-                <a class="nav-link collapsed" href="/user">
-                    <i class="bi bi-people"></i>
-                    <span>Usuários</span>
-                </a>
-            </li>
-
         </ul>
 
     </aside><!-- End Sidebar-->
